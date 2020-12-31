@@ -1,0 +1,19 @@
+{
+  "token": "Supah Secret",
+  "usage": {
+    "prefix": "~",
+    "literals": false,
+  },
+  "information": {
+    "developer": "rodunna",
+    "did": "Developer ID",
+    "description": "I am a [Discord.js](discord.js.org) android written by [rodunna](https://github.com/rodunna) for the purpose of moderating an extra, extra, extra, special [Discord](https://discord.com) guild.",
+    "repository": "n/a"
+  },
+  "database": {
+    "username": "db",
+    "password": "Secret",
+    "host": "something.db.something.com",
+    "port": 5432
+  }
+}
