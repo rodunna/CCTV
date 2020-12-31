@@ -2,7 +2,7 @@
   "token": "Supah Secret",
   "usage": {
     "prefix": "~",
-    "literals": false,
+    "literals": false
   },
   "information": {
     "developer": "rodunna",

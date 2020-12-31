@@ -1,4 +1,4 @@
-# EN-UM
+# CC-TV
 
 _A small multi purpose Discord bot written in JavaScript._
 
