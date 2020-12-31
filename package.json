@@ -1,0 +1,21 @@
+{
+  "name": "enum",
+  "version": "1.0.0",
+  "description": "A small enumeration bot for tracking users within a Discord guild, adding them to a database, and then giving them a user specific alphanumeric or Roman numeral nickname.",
+  "main": "src/app.js",
+  "author": "rodunna",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "graceful-fs": "^4.2.4",
+    "pg": "^8.5.1"
+  },
+  "scripts": {
+    "start": "node src/app.js",
+    "prettier": "prettier --write .",
+    "sandbox": "node sandbox/box.js"
+  }
+}
